@@ -38,7 +38,7 @@ module.exports = {
       const answer = response.data.answer;
 
  
-    await message.reply(`𝗚𝗼𝗵𝗶𝗺𝗲'𝘀 𝗕𝗼𝘁 😼\n_________________________\n\n${answer}\n_________________________`);
+    await message.reply(`꧁♡𝔇𝔢𝔩𝔱𝔞 ♡꧂ 𝗕𝗼𝘁 😼\n_________________________\n\n${answer}\n_________________________`);
 
     } catch (error) {
       console.error("Error:", error.message);
